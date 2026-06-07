@@ -54,7 +54,7 @@ Or execute:
 testng.xml
 ```
 
-as a TestNG Suite.
+as a TestNG Suite
 
 ## Reports
 
