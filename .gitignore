@@ -1,0 +1,29 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Logs
+logs/
+
+# Reports
+reports/
+
+# Screenshots
+screenshots/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+
+# Compiled Classes
+*.class
+
+# Temporary Files
+*.tmp
